@@ -6,8 +6,8 @@ A collection of verified professional certifications earned through various onli
 
 ## 📜 Certificates Earned
 
-### 1. Smart India Hackathon (SIH) 2024 - Participation
-- **Event:** Smart India Hackathon 2024
+### 1. Smart India Hackathon (SIH) 2025 - Participation
+- **Event:** Smart India Hackathon 2025
 - **Team Name:** AgriSenseX
 - **Participant:** Rohan Vishwakarma
 - **Status:** Internal Round Participation
@@ -47,7 +47,7 @@ A collection of verified professional certifications earned through various onli
 
 | Certificate | Provider | Date | Credential |
 |-------------|----------|------|------------|
-| Smart India Hackathon | SIH 2024 | 2024 | [View PDF](SIH_Participation_Certificate_Rohan.pdf) |
+| Smart India Hackathon | SIH 2025 | 2025 | [View PDF](SIH_Participation_Certificate_Rohan.pdf) |
 | Yoast SEO | Yoast Academy | Feb 9, 2026 | [View PDF](Yoast_SEO_Certificate_2026-02-09.pdf) |
 | MongoDB CRUD | MongoDB University | Feb 10, 2026 | [View PDF](MongoDB_CRUD_Certificate_Rohan.pdf) |
 | Claude Code | Anthropic | Feb 11, 2026 | [View PDF](Claude_Code_in_Action_Certificate_Rohan.pdf) |
