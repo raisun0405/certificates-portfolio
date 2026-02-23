@@ -6,7 +6,17 @@ A collection of verified professional certifications earned through various onli
 
 ## 📜 Certificates Earned
 
-### 1. Smart India Hackathon (SIH) 2025 - Participation
+### 1. DataCamp - Introduction to AI for Work
+- **Provider:** DataCamp
+- **Course:** Introduction to AI for Work
+- **Completed:** February 23, 2026
+- **Duration:** 2-3 hours
+- **Skills:** Artificial Intelligence, AI Chatbots, Productivity, Automation
+- **File:** [DataCamp_Introduction_to_AI_for_Work_Rohan.pdf](DataCamp_Introduction_to_AI_for_Work_Rohan.pdf)
+
+---
+
+### 2. Smart India Hackathon (SIH) 2025 - Participation
 - **Event:** Smart India Hackathon 2025
 - **Team Name:** AgriSenseX
 - **Participant:** Rohan Vishwakarma
@@ -25,7 +35,7 @@ A collection of verified professional certifications earned through various onli
 
 ---
 
-### 2. MongoDB CRUD Operations
+### 3. MongoDB CRUD Operations
 - **Provider:** MongoDB University
 - **Date:** February 10, 2026
 - **Cost:** FREE (with Credly badge)
@@ -34,7 +44,7 @@ A collection of verified professional certifications earned through various onli
 
 ---
 
-### 3. Claude Code in Action
+### 4. Claude Code in Action
 - **Provider:** Anthropic
 - **Date:** February 11, 2026
 - **Cost:** FREE
@@ -47,6 +57,7 @@ A collection of verified professional certifications earned through various onli
 
 | Certificate | Provider | Date | Credential |
 |-------------|----------|------|------------|
+| Introduction to AI for Work | DataCamp | Feb 23, 2026 | [View PDF](DataCamp_Introduction_to_AI_for_Work_Rohan.pdf) |
 | Smart India Hackathon | SIH 2025 | 2025 | [View PDF](SIH_Participation_Certificate_Rohan.pdf) |
 | Yoast SEO | Yoast Academy | Feb 9, 2026 | [View PDF](Yoast_SEO_Certificate_2026-02-09.pdf) |
 | MongoDB CRUD | MongoDB University | Feb 10, 2026 | [View PDF](MongoDB_CRUD_Certificate_Rohan.pdf) |
@@ -58,22 +69,27 @@ A collection of verified professional certifications earned through various onli
 
 Direct raw links to view/download each certificate:
 
-1. **Smart India Hackathon (SIH) Certificate:**
+1. **DataCamp - Introduction to AI for Work:**
+   ```
+   https://raw.githubusercontent.com/raisun0405/certificates-portfolio/main/DataCamp_Introduction_to_AI_for_Work_Rohan.pdf
+   ```
+
+2. **Smart India Hackathon (SIH) Certificate:**
    ```
    https://raw.githubusercontent.com/raisun0405/certificates-portfolio/main/SIH_Participation_Certificate_Rohan.pdf
    ```
 
-2. **Yoast SEO Certificate:**
+3. **Yoast SEO Certificate:**
    ```
    https://raw.githubusercontent.com/raisun0405/certificates-portfolio/main/Yoast_SEO_Certificate_2026-02-09.pdf
    ```
 
-3. **MongoDB CRUD Certificate:**
+4. **MongoDB CRUD Certificate:**
    ```
    https://raw.githubusercontent.com/raisun0405/certificates-portfolio/main/MongoDB_CRUD_Certificate_Rohan.pdf
    ```
 
-4. **Claude Code Certificate:**
+5. **Claude Code Certificate:**
    ```
    https://raw.githubusercontent.com/raisun0405/certificates-portfolio/main/Claude_Code_in_Action_Certificate_Rohan.pdf
    ```
@@ -82,10 +98,11 @@ Direct raw links to view/download each certificate:
 
 ## 📊 Skills Demonstrated
 
+- **Artificial Intelligence:** AI for Work, AI Chatbots, Automation, Productivity
 - **Hackathons & Innovation:** Smart India Hackathon Participation, Team Collaboration
 - **Database Management:** MongoDB, NoSQL, CRUD Operations
 - **SEO & Marketing:** Search Engine Optimization, Content Strategy
-- **AI & Development:** AI-Assisted Coding, Developer Tools, Automation
+- **Development Tools:** AI-Assisted Coding, Claude AI, Prompt Engineering
 
 ---
 
