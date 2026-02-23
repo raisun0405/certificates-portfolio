@@ -76,12 +76,25 @@ A collection of verified professional certifications earned through various onli
 
 ---
 
+### 7. HackerRank - Problem Solving (Intermediate)
+- **Provider:** HackerRank
+- **Certification:** Problem Solving (Intermediate)
+- **Date:** February 23, 2026
+- **Credential ID:** 1E47B9DC05E4
+- **Level:** Skill Certification (Intermediate)
+- **Skills:** Algorithms, Data Structures, Problem Solving, Logic, Computational Thinking
+- **Verification:** https://www.hackerrank.com/certificates/iframe/1e47b9dc05e4
+- **File:** [HackerRank_Problem_Solving_Intermediate_Rohan.pdf](HackerRank_Problem_Solving_Intermediate_Rohan.pdf)
+
+---
+
 ## 🎯 Summary
 
 | Certificate | Provider | Date | Credential |
 |-------------|----------|------|------------|
 | **Associate Data Analyst** | **DataCamp** | **Feb 23, 2026** | **[View PDF](DataCamp_Associate_Data_Analyst_Rohan.pdf)** |
 | **SQL (Advanced)** | **HackerRank** | **Feb 23, 2026** | **[View PDF](HackerRank_SQL_Advanced_Rohan.pdf)** |
+| **Problem Solving (Intermediate)** | **HackerRank** | **Feb 23, 2026** | **[View PDF](HackerRank_Problem_Solving_Intermediate_Rohan.pdf)** |
 | Introduction to AI for Work | DataCamp | Feb 23, 2026 | [View PDF](DataCamp_Introduction_to_AI_for_Work_Rohan.pdf) |
 | Smart India Hackathon | SIH 2025 | 2025 | [View PDF](SIH_Participation_Certificate_Rohan.pdf) |
 | Yoast SEO | Yoast Academy | Feb 9, 2026 | [View PDF](Yoast_SEO_Certificate_2026-02-09.pdf) |
@@ -129,11 +142,17 @@ Direct raw links to view/download each certificate:
    https://raw.githubusercontent.com/raisun0405/certificates-portfolio/main/HackerRank_SQL_Advanced_Rohan.pdf
    ```
 
+8. **HackerRank - Problem Solving (Intermediate):**
+   ```
+   https://raw.githubusercontent.com/raisun0405/certificates-portfolio/main/HackerRank_Problem_Solving_Intermediate_Rohan.pdf
+   ```
+
 ---
 
 ## 📊 Skills Demonstrated
 
 - **Data Analysis:** SQL Advanced (HackerRank Certified), Python, Data Visualization, Statistics, Data Manipulation
+- **Problem Solving:** Algorithms, Data Structures, Logic, Computational Thinking (HackerRank Certified)
 - **Artificial Intelligence:** AI for Work, AI Chatbots, Automation, Productivity
 - **Hackathons & Innovation:** Smart India Hackathon Participation, Team Collaboration
 - **Database Management:** MongoDB, NoSQL, CRUD Operations
