@@ -64,11 +64,24 @@ A collection of verified professional certifications earned through various onli
 
 ---
 
+### 6. HackerRank - SQL (Basic)
+- **Provider:** HackerRank
+- **Certification:** SQL (Basic)
+- **Date:** February 23, 2026
+- **Credential ID:** 1D2216C22052
+- **Level:** Skill Certification
+- **Skills:** SQL, Database Querying, Data Retrieval
+- **Verification:** https://www.hackerrank.com/certificates/iframe/1d2216c22052
+- **File:** [HackerRank_SQL_Basic_Rohan.pdf](HackerRank_SQL_Basic_Rohan.pdf)
+
+---
+
 ## 🎯 Summary
 
 | Certificate | Provider | Date | Credential |
 |-------------|----------|------|------------|
 | **Associate Data Analyst** | **DataCamp** | **Feb 23, 2026** | **[View PDF](DataCamp_Associate_Data_Analyst_Rohan.pdf)** |
+| **SQL (Basic)** | **HackerRank** | **Feb 23, 2026** | **[View PDF](HackerRank_SQL_Basic_Rohan.pdf)** |
 | Introduction to AI for Work | DataCamp | Feb 23, 2026 | [View PDF](DataCamp_Introduction_to_AI_for_Work_Rohan.pdf) |
 | Smart India Hackathon | SIH 2025 | 2025 | [View PDF](SIH_Participation_Certificate_Rohan.pdf) |
 | Yoast SEO | Yoast Academy | Feb 9, 2026 | [View PDF](Yoast_SEO_Certificate_2026-02-09.pdf) |
@@ -111,11 +124,16 @@ Direct raw links to view/download each certificate:
    https://raw.githubusercontent.com/raisun0405/certificates-portfolio/main/Claude_Code_in_Action_Certificate_Rohan.pdf
    ```
 
+7. **HackerRank - SQL (Basic):**
+   ```
+   https://raw.githubusercontent.com/raisun0405/certificates-portfolio/main/HackerRank_SQL_Basic_Rohan.pdf
+   ```
+
 ---
 
 ## 📊 Skills Demonstrated
 
-- **Data Analysis:** SQL, Python, Data Visualization, Statistics, Data Manipulation (Associate Data Analyst)
+- **Data Analysis:** SQL (HackerRank Certified), Python, Data Visualization, Statistics, Data Manipulation
 - **Artificial Intelligence:** AI for Work, AI Chatbots, Automation, Productivity
 - **Hackathons & Innovation:** Smart India Hackathon Participation, Team Collaboration
 - **Database Management:** MongoDB, NoSQL, CRUD Operations
