@@ -29,7 +29,19 @@ A collection of verified professional certifications earned through various onli
 
 ---
 
-### 3. DataCamp - Introduction to AI for Work
+### 3. DataCamp - Data Scientist Associate 🏆
+- **Provider:** DataCamp
+- **Certification:** Data Scientist Associate
+- **Certified:** February 24, 2026
+- **Credential ID:** DSA0011156882519
+- **Level:** Professional Certification
+- **Skills:** Data Science, Machine Learning, Python, Statistics, Data Analysis
+- **Verification:** https://www.datacamp.com/certificate/DSA0011156882519
+- **File:** [DataCamp_Data_Scientist_Associate_Rohan.pdf](DataCamp_Data_Scientist_Associate_Rohan.pdf)
+
+---
+
+### 4. DataCamp - Introduction to AI for Work
 - **Provider:** DataCamp
 - **Course:** Introduction to AI for Work
 - **Completed:** February 23, 2026
@@ -106,6 +118,7 @@ A collection of verified professional certifications earned through various onli
 |-------------|----------|------|------------|
 | **Associate Data Analyst** | **DataCamp** | **Feb 23, 2026** | **[View PDF](DataCamp_Associate_Data_Analyst_Rohan.pdf)** |
 | **SQL Associate** | **DataCamp** | **Feb 24, 2026** | **[View PDF](DataCamp_SQL_Associate_Rohan.pdf)** |
+| **Data Scientist Associate** | **DataCamp** | **Feb 24, 2026** | **[View PDF](DataCamp_Data_Scientist_Associate_Rohan.pdf)** |
 | **SQL (Advanced)** | **HackerRank** | **Feb 23, 2026** | **[View PDF](HackerRank_SQL_Advanced_Rohan.pdf)** |
 | **Problem Solving (Intermediate)** | **HackerRank** | **Feb 23, 2026** | **[View PDF](HackerRank_Problem_Solving_Intermediate_Rohan.pdf)** |
 | Introduction to AI for Work | DataCamp | Feb 23, 2026 | [View PDF](DataCamp_Introduction_to_AI_for_Work_Rohan.pdf) |
@@ -130,7 +143,12 @@ Direct raw links to view/download each certificate:
    https://raw.githubusercontent.com/raisun0405/certificates-portfolio/main/DataCamp_SQL_Associate_Rohan.pdf
    ```
 
-3. **DataCamp - Introduction to AI for Work:**
+3. **DataCamp - Data Scientist Associate:**
+   ```
+   https://raw.githubusercontent.com/raisun0405/certificates-portfolio/main/DataCamp_Data_Scientist_Associate_Rohan.pdf
+   ```
+
+4. **DataCamp - Introduction to AI for Work:**
    ```
    https://raw.githubusercontent.com/raisun0405/certificates-portfolio/main/DataCamp_Introduction_to_AI_for_Work_Rohan.pdf
    ```
@@ -169,7 +187,7 @@ Direct raw links to view/download each certificate:
 
 ## 📊 Skills Demonstrated
 
-- **Data Analysis:** SQL Associate (DataCamp Professional), SQL Advanced (HackerRank Certified), Python, Data Visualization, Statistics, Data Manipulation
+- **Data Science & Analysis:** Data Scientist Associate (DataCamp Professional), SQL Associate (DataCamp Professional), SQL Advanced (HackerRank Certified), Python, Data Visualization, Statistics, Data Manipulation
 - **Problem Solving:** Algorithms, Data Structures, Logic, Computational Thinking (HackerRank Certified)
 - **Artificial Intelligence:** AI for Work, AI Chatbots, Automation, Productivity
 - **Hackathons & Innovation:** Smart India Hackathon Participation, Team Collaboration
