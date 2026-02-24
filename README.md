@@ -41,7 +41,18 @@ A collection of verified professional certifications earned through various onli
 
 ---
 
-### 4. DataCamp - Introduction to AI for Work
+### 4. DataCamp - AI Fundamentals
+- **Provider:** DataCamp
+- **Certification:** AI Fundamentals
+- **Certified:** February 24, 2026
+- **Credential ID:** AIF0024777063096
+- **Level:** Skill Certification
+- **Skills:** Artificial Intelligence, Machine Learning Basics, AI Applications
+- **File:** [DataCamp_AI_Fundamentals_Rohan.pdf](DataCamp_AI_Fundamentals_Rohan.pdf)
+
+---
+
+### 5. DataCamp - Introduction to AI for Work
 - **Provider:** DataCamp
 - **Course:** Introduction to AI for Work
 - **Completed:** February 23, 2026
@@ -121,6 +132,7 @@ A collection of verified professional certifications earned through various onli
 | **Data Scientist Associate** | **DataCamp** | **Feb 24, 2026** | **[View PDF](DataCamp_Data_Scientist_Associate_Rohan.pdf)** |
 | **SQL (Advanced)** | **HackerRank** | **Feb 23, 2026** | **[View PDF](HackerRank_SQL_Advanced_Rohan.pdf)** |
 | **Problem Solving (Intermediate)** | **HackerRank** | **Feb 23, 2026** | **[View PDF](HackerRank_Problem_Solving_Intermediate_Rohan.pdf)** |
+| AI Fundamentals | DataCamp | Feb 24, 2026 | [View PDF](DataCamp_AI_Fundamentals_Rohan.pdf) |
 | Introduction to AI for Work | DataCamp | Feb 23, 2026 | [View PDF](DataCamp_Introduction_to_AI_for_Work_Rohan.pdf) |
 | Smart India Hackathon | SIH 2025 | 2025 | [View PDF](SIH_Participation_Certificate_Rohan.pdf) |
 | Yoast SEO | Yoast Academy | Feb 9, 2026 | [View PDF](Yoast_SEO_Certificate_2026-02-09.pdf) |
@@ -148,7 +160,12 @@ Direct raw links to view/download each certificate:
    https://raw.githubusercontent.com/raisun0405/certificates-portfolio/main/DataCamp_Data_Scientist_Associate_Rohan.pdf
    ```
 
-4. **DataCamp - Introduction to AI for Work:**
+4. **DataCamp - AI Fundamentals:**
+   ```
+   https://raw.githubusercontent.com/raisun0405/certificates-portfolio/main/DataCamp_AI_Fundamentals_Rohan.pdf
+   ```
+
+5. **DataCamp - Introduction to AI for Work:**
    ```
    https://raw.githubusercontent.com/raisun0405/certificates-portfolio/main/DataCamp_Introduction_to_AI_for_Work_Rohan.pdf
    ```
