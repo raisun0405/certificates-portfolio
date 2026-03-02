@@ -170,7 +170,7 @@ A curated collection of **12 verified professional certifications** ranked by va
 
 ## 🔗 Raw Links (For Resumes/LinkedIn)
 
-**Top 5 Certificates (Copy-Paste for Resume):**
+**Top 5 Certificates :**
 ```
 1. DataCamp Associate Data Analyst: https://raw.githubusercontent.com/raisun0405/certificates-portfolio/main/DataCamp_Associate_Data_Analyst_Rohan.pdf
 
