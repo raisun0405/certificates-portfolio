@@ -123,6 +123,30 @@ A collection of verified professional certifications earned through various onli
 
 ---
 
+### 8. freeCodeCamp - Relational Database V8 🏆
+- **Provider:** freeCodeCamp
+- **Certification:** Relational Database Developer Certification V8
+- **Date:** March 1, 2026
+- **Level:** Developer Certification
+- **Duration:** ~300 hours of coursework
+- **Skills:** SQL, PostgreSQL, Bash Scripting, Git, Database Design, Terminal Workflows
+- **Verification:** https://www.freecodecamp.org/certification/raisun/relational-database-v8
+- **File:** [freeCodeCamp_Relational_Database_V8_Rohan.pdf](freeCodeCamp_Relational_Database_V8_Rohan.pdf)
+
+---
+
+### 9. freeCodeCamp - Relational Databases (v9) 🏆
+- **Provider:** freeCodeCamp
+- **Certification:** Relational Database Developer Certification (v9)
+- **Date:** March 2, 2026
+- **Level:** Developer Certification
+- **Duration:** ~300 hours of coursework
+- **Skills:** Advanced SQL, PostgreSQL, Bash, Git, Database Modeling, Linux Terminal
+- **Verification:** https://www.freecodecamp.org/certification/raisun/relational-databases-v9
+- **File:** [freeCodeCamp_Relational_Databases_v9_Rohan.pdf](freeCodeCamp_Relational_Databases_v9_Rohan.pdf)
+
+---
+
 ## 🎯 Summary
 
 | Certificate | Provider | Date | Credential |
@@ -138,6 +162,8 @@ A collection of verified professional certifications earned through various onli
 | Yoast SEO | Yoast Academy | Feb 9, 2026 | [View PDF](Yoast_SEO_Certificate_2026-02-09.pdf) |
 | MongoDB CRUD | MongoDB University | Feb 10, 2026 | [View PDF](MongoDB_CRUD_Certificate_Rohan.pdf) |
 | Claude Code | Anthropic | Feb 11, 2026 | [View PDF](Claude_Code_in_Action_Certificate_Rohan.pdf) |
+| **Relational Database V8** | **freeCodeCamp** | **Mar 1, 2026** | **[View PDF](freeCodeCamp_Relational_Database_V8_Rohan.pdf)** |
+| **Relational Databases (v9)** | **freeCodeCamp** | **Mar 2, 2026** | **[View PDF](freeCodeCamp_Relational_Databases_v9_Rohan.pdf)** |
 
 ---
 
@@ -200,15 +226,25 @@ Direct raw links to view/download each certificate:
    https://raw.githubusercontent.com/raisun0405/certificates-portfolio/main/HackerRank_Problem_Solving_Intermediate_Rohan.pdf
    ```
 
+9. **freeCodeCamp - Relational Database V8:**
+   ```
+   https://raw.githubusercontent.com/raisun0405/certificates-portfolio/main/freeCodeCamp_Relational_Database_V8_Rohan.pdf
+   ```
+
+10. **freeCodeCamp - Relational Databases (v9):**
+    ```
+    https://raw.githubusercontent.com/raisun0405/certificates-portfolio/main/freeCodeCamp_Relational_Databases_v9_Rohan.pdf
+    ```
+
 ---
 
 ## 📊 Skills Demonstrated
 
 - **Data Science & Analysis:** Data Scientist Associate (DataCamp Professional), SQL Associate (DataCamp Professional), SQL Advanced (HackerRank Certified), Python, Data Visualization, Statistics, Data Manipulation
+- **Database Management:** Relational Databases (freeCodeCamp - 600+ hours), SQL, PostgreSQL, Bash, Git, Database Design, MongoDB, NoSQL, CRUD Operations
 - **Problem Solving:** Algorithms, Data Structures, Logic, Computational Thinking (HackerRank Certified)
 - **Artificial Intelligence:** AI for Work, AI Chatbots, Automation, Productivity
 - **Hackathons & Innovation:** Smart India Hackathon Participation, Team Collaboration
-- **Database Management:** MongoDB, NoSQL, CRUD Operations
 - **SEO & Marketing:** Search Engine Optimization, Content Strategy
 - **Development Tools:** AI-Assisted Coding, Claude AI, Prompt Engineering
 
